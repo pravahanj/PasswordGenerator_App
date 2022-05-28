@@ -17,5 +17,4 @@ https://user-images.githubusercontent.com/79738603/170827114-a7d45289-48b1-4698-
 
 ## User Interface and App Experience
 
-https://user-images.githubusercontent.com/79738603/170827289-9c2fb452-5c20-4c8b-960b-5e6f16145010.MP4
-
+![User Interface](https://user-images.githubusercontent.com/79738603/170834245-8dcda0c1-16bf-42e0-96bf-2c02e662f4e3.gif)
