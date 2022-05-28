@@ -12,9 +12,12 @@ An app to generate random passwords based on specified parameters.
 ## Animated LaunchScreen
 
 
-https://user-images.githubusercontent.com/79738603/170827114-a7d45289-48b1-4698-b496-0ba89a0ec4cc.mp4
+<img src = "https://user-images.githubusercontent.com/79738603/170834498-6289de2b-a859-4c1d-994c-b9c0c52e15cc.gif" width = "250">
+
 
 
 ## User Interface and App Experience
 
-![User Interface](https://user-images.githubusercontent.com/79738603/170834245-8dcda0c1-16bf-42e0-96bf-2c02e662f4e3.gif)
+
+
+<img src = "https://user-images.githubusercontent.com/79738603/170834305-e5e3bae7-b94d-486e-808c-2e6b45cbe49a.gif" width = "250">
