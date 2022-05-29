@@ -7,7 +7,11 @@ An app to generate random passwords based on specified parameters.
 3. NSAttributedString.
 4. @IBAction and @IBOutlet in UISlider, UIButton, UITextFieldView and UILabel.
 5. Generation of random elements in String data type.
-6. Dark Mode Support.
+
+## Updates
+1. Added support for Dark Mode.
+2. Added haptic feedback using the UIImpactFeedbackGenerator() framework.
+3. Added support for "Toast Message" and animated using UIView.animate() method.
 
 
 ## Animated LaunchScreen
@@ -21,8 +25,8 @@ An app to generate random passwords based on specified parameters.
 
 
 <p>
-<img src = "https://user-images.githubusercontent.com/79738603/170834305-e5e3bae7-b94d-486e-808c-2e6b45cbe49a.gif" width = "250" hspace = "50" />
-<img src = "https://user-images.githubusercontent.com/79738603/170836959-71aa301c-4dd6-4bbb-b5f1-0fc3343731da.gif" width = "250" hspace = "50" />
+<img title = "Light" src = "https://user-images.githubusercontent.com/79738603/170834305-e5e3bae7-b94d-486e-808c-2e6b45cbe49a.gif" width = "250" hspace = "50" />
+<img title = "Dark" src = "https://user-images.githubusercontent.com/79738603/170836959-71aa301c-4dd6-4bbb-b5f1-0fc3343731da.gif" width = "250" hspace = "50" />
 </p>
                                                                                                                                 
                                                                                                                                
