@@ -28,5 +28,9 @@ An app to generate random passwords based on specified parameters.
 <img title = "Light" src = "https://user-images.githubusercontent.com/79738603/170834305-e5e3bae7-b94d-486e-808c-2e6b45cbe49a.gif" width = "250" hspace = "50" />
 <img title = "Dark" src = "https://user-images.githubusercontent.com/79738603/170836959-71aa301c-4dd6-4bbb-b5f1-0fc3343731da.gif" width = "250" hspace = "50" />
 </p>
+
+<h3> Toast Message Demo</h3>
+<img src = "https://user-images.githubusercontent.com/79738603/170865333-b790ec3c-cffe-4235-a3e3-4a5d4c06763c.gif" width = "250">
+
                                                                                                                                 
                                                                                                                                
